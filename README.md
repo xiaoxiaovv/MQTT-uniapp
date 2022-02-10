@@ -1,6 +1,6 @@
 # MQTT 演示及调试demo
 
-仅作为供MQTT初试者参考范例
+仅作为供MQTT初试者参考范例，我们后台用的RabbitMQ
 
 ---
 
